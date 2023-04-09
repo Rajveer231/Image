@@ -1,0 +1,51 @@
+img{
+    height:400px;
+    width:600px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+    margin-left: 20px;
+    margin-top: 5px;
+    border:10px ridge lime;
+}
+img:hover{
+    border-radius: 70px;
+}
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color:white;
+    font-size:20px;
+    line-height:2;
+}
+.body_back{
+    background-color: rgb(208, 205, 205);
+}
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 50px;
+    color: black;
+    font-variant: small-caps;
+}
+h4{
+    color:magenta;
+}
+#camera{
+    width: 500px;
+    height: 100px;
+}
+#resultRow{
+    display:flex;
+}
+label{
+    font-size: 18px;
+}
+#camera1{
+    width: 500px;
+    height: 100px;
+}
+#resultrow{
+    margin-top: 0px;
+}
